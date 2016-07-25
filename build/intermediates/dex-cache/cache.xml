@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kaiso\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_bf79c1955a89f26ac4b51a551dc5fb91a4f58a65\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8d695524f500fa49ce025f2074e5b672f24f814c">
+        <dex dex="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b8f2353491610da17c8fcbdca29d1a72f0a0cec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="75bbcb4669caa8c69cddd2c170a37056d98406c1">
+        <dex dex="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f301dd2ab172df231468adefb8aeb23a92239174\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="C:\Users\kaiso\Downloads\Android Projects\SampleJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.lzyzsd-circleprogress-1.1.0_9d4dcf9f6616bef25a8fa8639665917c1090d66a\classes.dex" />
+    </item>
+
+</items>
